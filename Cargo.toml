@@ -1,0 +1,8 @@
+[package]
+name = "victron"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.8"
+ctr = "0.9"
